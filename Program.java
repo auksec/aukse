@@ -3,6 +3,6 @@ public class Program
 	public static void main (String[] arg)
 	{
 		System.out.println("Hello");
-		System.out.println("Kuku");
+		System.out.println("Happy New Year");
 	}
 }
